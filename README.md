@@ -1,12 +1,14 @@
 # LordoftheMeanGirls
 
-This work combines the scripts of the first "Lord of the Rings" film with "Mean Girls". It was using by creating a text file that combined the two scripts which was then run through GPT-2. From there, excerpts were taken by calling the prefix of a character's name and a length of at least 5000 to form somewhat of a meaningful new script. Passages which did not appear to combine the universes were ignored while those that created anachronisms and interactions between characters of different films were taken as samples.
+**Summary**
+This work combines the scripts of the first _Lord of the Rings_ film with _Mean Girls_. It was using by creating a text file that combined the two scripts which was then run through GPT-2. From there, excerpts were taken by calling the prefix of a character's name and a length of at least 5000 to form somewhat of a meaningful new script. Passages which did not appear to combine the universes were ignored while those that created anachronisms and interactions between characters of different films were taken as samples.
 
 
-To run the project, select "LordoftheMeanGirlstraining.ipynb" and run the files. When you reach the "Generate Text" step (#13), be sure to include a character from one of the films as a prefix and include at least 5000 words. The generation is most successful when using a Lord of the Ring's character and Merry received the most mixing of any of the prefixes.
+**Instructions**
+To run the project, select "LordoftheMeanGirlstraining.ipynb" and run the files. When you reach the "Generate Text" step (#13), be sure to include a character from one of the films as a prefix and include at least 5000 words. The generation is most successful when using a _Lord of the Ring_'s character and Merry received the most mixing of any of the prefixes.
 
 
-Sample Output:
+**Sample Output:**
 Gandalf: (rises) Do you not understand that while we bicker among ourselves, Sauron’s power grows?! None can escape it! 
 
 Man: You’ll all be destroyed!
@@ -105,6 +107,9 @@ Sam: It’s just something Gandalf said.
 
 Frodo: What did he say?
 
-
-This work is the result of attempting to create view "character growth" from various members of the Fellowship by finding sample phrases that compared the first and third films. Unfortunately, the lines of the script were often too short to create anything meaningful or recognizeable as "in-character". As a result, this work is inspired by various bots that take or respond to text and reply in modern forums with unusual responses. One example particularly related to this work is gandalf-bot (https://www.reddit.com/r/lotrmemes/comments/ca64fa/introducing_gandalfbot_ask_him_anything/) which replies to questions as if it were Gandalf from the Lord of the Rings. 
+**Artist Statement**
+This work is the result of attempting to create view "character growth" from various members of the Fellowship by finding sample phrases that compared the first and third films. Unfortunately, the lines of the script were often too short to create anything meaningful or recognizeable as "in-character". As a result, this work is inspired by various bots that take or respond to text and reply in modern forums with unusual responses. One example particularly related to this work is gandalf-bot (https://www.reddit.com/r/lotrmemes/comments/ca64fa/introducing_gandalfbot_ask_him_anything/) which replies to questions as if it were Gandalf from the _Lord of the Rings_. 
 The failure of my first attempt led to me adjusting the temperature of the output to higher degrees which created a number of outputs that drew from other science fiction and fantasy scripts. For example, it generated text talking about "Mudbloods" and at one point included Picard as a character in the form of "Picard:" in the output. I opted to deliberately combine two scripts as a result of this (the failed GPT-2 ipynb file is included in the repository) and instead combined two films of very different genres to create something distinct.
+
+
+The scripts were taken from https://transcripts.fandom.com/wiki/Mean_Girls and https://transcripts.fandom.com/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring.
