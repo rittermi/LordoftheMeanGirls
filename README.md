@@ -6,7 +6,7 @@ This work combines the scripts of the first _Lord of the Rings_ film with _Mean 
 
 
 **Instructions**
-To run the project, select "LordoftheMeanGirlstraining.ipynb" and run the files. When you reach the "Generate Text" step (#13), be sure to include a character from one of the films as a prefix and include at least 5000 words. The generation is most successful when using a _Lord of the Ring_'s character and Merry received the most mixing of any of the prefixes.
+To run the project, select "LordoftheMeanGirlstraining.ipynb" and run the files. You will need to upload the mgfotr.txt file available in this repository to the files on the lefthand side. When you reach the "Generate Text" step (#13), be sure to include a character from one of the films as a prefix and include at least 5000 words. The generation is most successful when using a _Lord of the Ring_'s character and Merry received the most mixing of scripts of any of the prefixes.
 
 
 **Sample Output:**
