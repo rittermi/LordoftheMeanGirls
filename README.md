@@ -1,4 +1,6 @@
-# LordoftheMeanGirls
+# _Lord of the Mean Girls_
+
+Script available here: https://rittermi.files.wordpress.com/2021/02/fellowshipofthemeangirls.pdf
 
 **Summary**
 This work combines the scripts of the first _Lord of the Rings_ film with _Mean Girls_. It was using by creating a text file that combined the two scripts which was then run through GPT-2. From there, excerpts were taken by calling the prefix of a character's name and a length of at least 5000 to form somewhat of a meaningful new script. Passages which did not appear to combine the universes were ignored while those that created anachronisms and interactions between characters of different films were taken as samples.
