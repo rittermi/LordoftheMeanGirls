@@ -1,6 +1,5 @@
 # _Lord of the Mean Girls_
 
-Script available here: https://rittermi.files.wordpress.com/2021/02/fellowshipofthemeangirls.pdf
 
 **Summary**
 This work combines the scripts of the first _Lord of the Rings_ film with _Mean Girls_. It was using by creating a text file that combined the two scripts which was then run through GPT-2. From there, excerpts were taken by calling the prefix of a character's name and a length of at least 5000 to form somewhat of a meaningful new script. Passages which did not appear to combine the universes were ignored while those that created anachronisms and interactions between characters of different films were taken as samples.
@@ -111,7 +110,8 @@ Frodo: What did he say?
 
 **Artist Statement**
 This work is the result of attempting to create view "character growth" from various members of the Fellowship by finding sample phrases that compared the first and third films. Unfortunately, the lines of the script were often too short to create anything meaningful or recognizeable as "in-character". As a result, this work is inspired by various bots that take or respond to text and reply in modern forums with unusual responses. One example particularly related to this work is gandalf-bot (https://www.reddit.com/r/lotrmemes/comments/ca64fa/introducing_gandalfbot_ask_him_anything/) which replies to questions as if it were Gandalf from the _Lord of the Rings_. 
-The failure of my first attempt led to me adjusting the temperature of the output to higher degrees which created a number of outputs that drew from other science fiction and fantasy scripts. For example, it generated text talking about "Mudbloods" and at one point included Picard as a character in the form of "Picard:" in the output. I opted to deliberately combine two scripts as a result of this (the failed GPT-2 ipynb file is included in the repository) and instead combined two films of very different genres to create something distinct.
+The failure of my first attempt led to me adjusting the temperature of the output to higher degrees which created a number of outputs that drew from other science fiction and fantasy scripts. For example, it generated text talking about "Mudbloods" and at one point included Picard as a character in the form of "Picard:" in the output. I opted to deliberately combine two scripts as a result of this (the failed GPT-2 ipynb file is included in the repository) and instead combined two films of very different genres to create something distinct. 
+Stylized script available here: https://rittermi.files.wordpress.com/2021/02/fellowshipofthemeangirls.pdf
 
 
 The scripts were taken from https://transcripts.fandom.com/wiki/Mean_Girls and https://transcripts.fandom.com/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring.
